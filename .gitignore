@@ -1,5 +1,3 @@
-gitignore
-*.pkl
 *.pkl.gz
 *.txt
 *.log
